@@ -1,14 +1,14 @@
 {
   "name": "wordle",
   "version": "0.0.1",
-  "description": "Node.js italian clone of wordle by John Wardle",
+  "description": "Node.js Korean clone of Italian clone (by sebastianomorando) of wordle by John Wardle",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node server/index.js",
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ."
   },
-  "author": "Sebastiano Morando",
+  "author": "Embe Tamu",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.1"
