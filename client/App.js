@@ -158,10 +158,10 @@ const App = () => {
                 </Row>)}
             </div>
             <Keyboard layout={{
-                    default: ['q e è r t u i o p', 'a à s d f g h j l', '{enter} z x c v b n m {backspace}']
+                    default: ['ㅂ ㅈ ㄷ ㄱ ㅅ ㅛ ㅕ ㅑ ㅐ ㅔ', 'ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ', '{enter} ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ {backspace}']
                 }}
                 display={{
-                    '{enter}': 'Invio',
+                    '{enter}': '입력',
                     '{backspace}': '⌫'
                 }}
                 onKeyPress={ (input) => {
