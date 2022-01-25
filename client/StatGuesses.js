@@ -15,7 +15,7 @@ const StatGuesses = () => {
     return (
             <div className="stat-guesses">
                 <div className="stat-guesses-title">
-                    Distribuzione dei risultati
+                    결과 분포
                 </div>
                 <div className="stat-guesses-container">
                     
